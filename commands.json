@@ -29,7 +29,7 @@
 	"clear H3",
 	"clear H1",
 	"clear H2",
-	"unflag H4"
-		
+	"unflag H4",
+	"clear H4"		
 ]
 }
